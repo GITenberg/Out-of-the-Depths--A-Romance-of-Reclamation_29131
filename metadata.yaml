@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1956
     wikipedia: http://en.wikipedia.org/wiki/Robert_Ames_Bennet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29131#Out-of-the-Depths--A-Romance-of-Reclamation
 gutenberg_issued: '2009-06-15'
 gutenberg_type: Text
 identifiers:
